@@ -12,9 +12,8 @@ The dashboard was built using Power BI and includes:
 - **Quarterly trends in cloud expenses**
 - **Interactive filters** (Service, Account ID, Environment)
 
-** 🖼 FinOps Dashboard
 
-![FinOps Dashboard](https://raw.githubusercontent.com/izadorasobral/FinOps-Cloud-Spend-Forecast-Analysis-/main/dashboard.png)
+![FinOps Dashboard](./dashboard.png)
 
 ---
 
