@@ -1,0 +1,43 @@
+# Ambiente virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dados sensíveis ou grandes (exceto os da pasta data/)
+
+*.xls
+*.xlsx
+*.json
+*.parquet
+*.zip
+
+# Logs
+*.log
+
+# Arquivos temporários do editor
+*.swp
+*.bak
+*.tmp
+*.orig
+
+# VSCode
+.vscode/
+
+# Arquivos do Power BI (se usar)
+*.pbix
+
+.git
