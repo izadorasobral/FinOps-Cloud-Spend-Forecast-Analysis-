@@ -14,7 +14,7 @@ The dashboard was built using Power BI and includes:
 
 ** 🖼 FinOps Dashboard
 
-![FinOps Dashboard](./dashboard.png)
+![FinOps Dashboard](https://raw.githubusercontent.com/izadorasobral/FinOps-Cloud-Spend-Forecast-Analysis-/main/dashboard.png)
 
 ---
 
