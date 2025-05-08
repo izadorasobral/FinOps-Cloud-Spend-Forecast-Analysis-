@@ -36,8 +36,10 @@ Hosted on GitHub:
 ---
 
 ## 🧩 Power BI Template File (.pbit)
+
 You can download the Power BI template file and explore all queries, measures, and report structure:
-<a href="https://raw.githubusercontent.com/izadorasobral/FinOps-Cloud-Spend-Forecast-Analysis-/main/Cloud%20Cost%20Optimization%20Dashboard.pbit" download>Baixar Power BI Template</a>
+🔗 <a href="https://raw.githubusercontent.com/izadorasobral/FinOps-Cloud-Spend-Forecast-Analysis-/main/Cloud%20Cost%20Optimization%20Dashboard.pbit" download>Baixar Power BI Template</a>
+
 ---
 
 ## 📚 What I Learned
