@@ -35,6 +35,12 @@ Hosted on GitHub:
 
 ---
 
+## 🧩 Power BI Template File (.pbit)
+You can download the Power BI template file and explore all queries, measures, and report structure:
+
+📄 Download .pbit Template
+---
+
 ## 📚 What I Learned
 
 - How to analyze real-world-like cloud spend data
