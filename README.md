@@ -37,8 +37,9 @@ Hosted on GitHub:
 
 ## 🧩 Power BI Template File (.pbit)
 
-You can download the Power BI template file and explore all queries, measures, and report structure:
-🔗 
+You can download the Power BI report file to explore all queries, measures, and report structure:  
+
+🔗 [Download Power BI Report](https://raw.githubusercontent.com/izadorasobral/Cloud-Cost-Optimization-Dashboard/main/Cloud%20Cost%20Optimization%20Dashboard.pbix)
 
 ---
 
